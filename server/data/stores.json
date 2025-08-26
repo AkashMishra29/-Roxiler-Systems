@@ -1,0 +1,11 @@
+[
+  {
+    "id": "c9a45cfa-6cd9-4452-ac93-7f76de5b51c9",
+    "name": "Tech Paradise",
+    "description": "Your one-stop shop for all tech needs",
+    "ownerId": "e92945ce-3cc4-4962-b21d-497359e16241",
+    "category": "Electronics",
+    "status": "active",
+    "createdAt": "2025-08-25T07:54:00.019Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fd374b67-941e-45eb-821b-f5fe4556c248",
+    "email": "admin@admin.com",
+    "password": "$2a$10$AXHuRBJrK9wd/3kBAMiumePJ9rEZeY3hrlcYzenPX9ilQUowYih.i",
+    "name": "System Administrator",
+    "role": "admin",
+    "createdAt": "2025-08-25T07:53:59.583Z"
+  },
+  {
+    "id": "e92945ce-3cc4-4962-b21d-497359e16241",
+    "email": "owner@store.com",
+    "password": "$2a$10$rUmKCFAanf8AKBVfQSvNh.hZdHlTsaRvsMWrVJBm5mOzJ5QmJO3I.",
+    "name": "Store Owner Demo",
+    "role": "store_owner",
+    "createdAt": "2025-08-25T07:53:59.816Z"
+  },
+  {
+    "id": "743f4cce-2722-4c38-9db5-e50737153140",
+    "email": "user@user.com",
+    "password": "$2a$10$qsVCrTfbDtpYmBdPiXSl0.lWzbZ/0WucLel8sh3aUl4y3b20dpGNK",
+    "name": "Normal User Demo",
+    "role": "user",
+    "createdAt": "2025-08-25T07:54:00.019Z"
+  }
+]
